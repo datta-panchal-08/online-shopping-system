@@ -1,0 +1,44 @@
+body{
+    margin-top: 200px;
+    background-image: url("https://images.unsplash.com/photo-1566228015668-4c45dbc4e2f5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTd8fGxvZ2lufGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+    background-repeat: no-repeat;
+   background-size: cover;
+}
+#loginform{
+    width: 300px;
+    margin: 0 auto;
+    text-align: center;
+    font-weight: bold;
+}
+form{
+    width: 400px;
+    height: 300px;
+    border: 2px solid darkgoldenrod;
+    padding-top: 20px;
+    background-color: cornflowerblue;
+    border-radius: 15px;
+ 
+}
+#button{
+   margin-top: 50px;
+   background-color:rgb(78, 78, 216);
+   font-weight: bold;
+   color: white;
+   border: none;
+   border-radius: 12px;
+   width: 100px;
+   height: 36px;
+}
+#nickN{
+margin-top: 50px;
+text-align: center;
+font-weight: bold;
+
+}
+#userP{
+margin-top: 50px;
+align-items: center;
+ text-align: center;
+ font-weight: bolder;
+
+}

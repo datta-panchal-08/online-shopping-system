@@ -1,0 +1,104 @@
+    * {
+        font-family: cursive;
+        align-items: center;
+        margin: 0;
+        padding: 0;
+    }
+    
+    .navbar {
+        padding: 15px;
+        background-color: rgb(20, 183, 20);
+        font-size: 17px;
+    }
+    
+    .navbar a {
+        color: white;
+        text-decoration: none;
+        margin-left: 10px;
+        font-size: 17px;
+    }
+    
+    .back-img {
+        margin-top: 2px;
+    }
+    
+    .col-1 {
+         width: 25.5%;
+        /* border: 2px solid grey; */
+        text-align: center;
+        align-items: center;
+        font-family: cursive;
+        padding: 10px;
+        color: grey;
+        margin-left: 10px;
+    }
+    
+    .col-1 a {
+        text-decoration: none;
+        color: blue;
+    }
+    
+    .footer {
+        margin-top: 5px;
+        background-color: black;
+        padding: 15px;
+        text-align: center;
+        color: white;
+    }
+    
+    .footer a {
+        text-decoration: none;
+        color: orange;
+        margin-bottom: 0;
+        margin: 0;
+    }
+    
+    .div-1 {
+        float: right;
+    }
+    
+    .a-1 {
+        background-color: blue;
+        border: 5px;
+        border-radius: 5px;
+        font-size: 20px;
+        text-decoration: none;
+    }
+    
+    .a-2 {
+        background-color: rgb(243, 243, 30);
+        border: 5px;
+        border-radius: 5px;
+        font-size: 20px;
+        text-decoration: none;
+    }
+    
+    .img-tv {
+        margin-top: 2px;
+        margin-bottom: 3px;
+    }
+    
+    .tvcol-2 {
+        text-align: center;
+        align-items: center;
+        padding: 5px;
+        width: 33.3%;
+    }
+    #btn{
+        border-radius: 10px;
+        border:none;
+        background-color: rgb(235, 21, 21);
+        font:bold;
+        font-size: 15px;
+        width: 100px;
+        margin: 5px;
+        cursor: pointer;
+        height: 30px;
+        color: white; 
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        box-shadow: 1px 1px 6px 1px black;
+    }
+    #btn:hover{
+         background-color: yellow;
+         color: black;
+  }

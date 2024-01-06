@@ -1,0 +1,66 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2016/04/20/07/17/logo-1340517__340.png");
+    background-size:150% 150%;
+    background-repeat: no-repeat;
+}
+div{
+    margin-top: 150px;
+    margin-right: auto;
+    margin-left: 550px;
+}
+form{
+    background-color: aqua;
+    width: 300px;
+    height: 320px;
+    text-align: center;
+    border: none;
+    border-radius: 15px;
+    
+}
+input{
+    padding: 2px;
+    margin-top: 10px;
+    color: black;
+    font-size: 16px;
+    border-radius: 5px;
+    border: inset;
+    background-color: whitesmoke;
+    text-indent: 5px;
+    font-family: monospace;
+}
+label{
+    color: rgb(2, 14, 4);
+    text-decoration:solid;
+    font-weight: bold;
+    padding: 3px;
+}
+#btn{
+    border:none;
+    box-shadow: 1px 1px 6px 1px ;
+    background-color: yellow;
+    margin-left: 30px;
+    font-weight: bold;
+    color:red;
+    cursor: pointer;
+}
+#btn:hover{
+    background-color: red;
+    color: white;
+    opacity: 0.8;
+}
+.reset{
+    color: black;
+    font-weight: bold;
+    font-family: monospace;
+    box-shadow: 1px 1px 6px 1px;
+    background-color: rgb(12, 233, 12);
+    border: none;
+    margin-left: 5px;
+    font-weight: bold;
+
+}
+.reset:hover{
+    background-color: yellow;
+    color: red;
+    opacity: 0.8;
+}
